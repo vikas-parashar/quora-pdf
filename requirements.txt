@@ -1,0 +1,6 @@
+Django==1.7.3
+argparse==1.2.1
+beautifulsoup4==4.3.2
+pdfcrowd==2.6
+selenium==2.44.0
+wsgiref==0.1.2
